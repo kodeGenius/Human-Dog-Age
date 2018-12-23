@@ -1,2 +1,2 @@
 # Human-Dog-Age
-this is a dog-human-age gener
+this is a dog-human-age genera
