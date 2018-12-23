@@ -1,2 +1,2 @@
 # Human-Dog-Age
-this is a dog-human-age gen
+this is a dog-human-age gene
