@@ -1,2 +1,2 @@
 # Human-Dog-Age
-this is a dog-huma
+this is a dog-human
