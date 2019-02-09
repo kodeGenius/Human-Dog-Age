@@ -1,7 +1,7 @@
 const age = () =>{
 	let myAge = document.getElementById("age").value;
 	let early = 2;
-	early *= 10.5;
+	early *= 10.6;
 	let later = myAge-2;
 	later *= 4;
 	let dogAge = later + early;
