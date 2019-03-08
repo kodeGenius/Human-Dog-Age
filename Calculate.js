@@ -1,3 +1,4 @@
+// func to calc dog age
 const age = () =>{
 	let myAge = document.getElementById("age").value;
 	let early = 2;
